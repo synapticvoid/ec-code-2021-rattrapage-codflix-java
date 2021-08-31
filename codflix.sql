@@ -94,8 +94,8 @@ CREATE TABLE `user` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `user` (`id`, `email`, `username`, `password`) VALUES
-(1, 'coding@factory.fr', 'coding', '123456');
+INSERT INTO `user` (`id`, `email`, `password`) VALUES
+(1, 'coding@factory.fr', '123456');
 
 --
 -- Indexes for dumped tables
